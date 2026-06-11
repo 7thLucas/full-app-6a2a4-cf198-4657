@@ -1,0 +1,1 @@
+Build me a simple CRM where I can track my contacts, log interactions with them, and see my pipeline.
