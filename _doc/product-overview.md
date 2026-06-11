@@ -1,9 +1,12 @@
 # Product Overview
 
-> Status: Early scoping. Only the stated idea is confirmed; audience, name, and branding are still being defined during onboarding. Update as details are confirmed.
+> Status: Early scoping. Idea and audience confirmed; name and branding are still being defined during onboarding. Update as details are confirmed.
 
 ## What it is
-A simple CRM (customer relationship manager) for tracking contacts, logging interactions, and viewing a sales pipeline in one place.
+A simple, single-user CRM (customer relationship manager) for tracking contacts, logging interactions, and viewing a sales pipeline in one place.
+
+## Who it's for
+A solo user ("just me") managing their own contacts, interactions, and pipeline. No team, sharing, or permissions — built for one, which keeps it lightweight and fast and lets every screen be tuned to how the owner personally works.
 
 ## Core jobs (as stated)
 1. **Track contacts** — keep a clean, searchable list of people.
