@@ -13,6 +13,9 @@ A solo user ("just me") managing their own contacts, interactions, and pipeline.
 2. **Log interactions** — record calls, emails, meetings, and notes against each contact.
 3. **See the pipeline** — view where deals/relationships stand across stages.
 
+## Day-one lead capability
+Logging and the pipeline board are one loop, not two features: capture a contact and log calls/emails/meetings/notes in seconds, and that activity feeds a visual pipeline board showing where every deal stands and what needs attention next. This loop is the day-one hero.
+
 ## Strategic principle
 The real value isn't the contact list — it's pipeline visibility. Deals rarely die from a bad pitch; they die from follow-ups that quietly slip. The product should make "what needs my attention next" obvious, so nothing leaks.
 
