@@ -23,6 +23,5 @@ The real value isn't the contact list — it's pipeline visibility. Deals rarely
 "Simple" is a hard requirement — lightweight and fast, not an enterprise CRM. Favor clarity and low friction over feature breadth.
 
 ## Open / to confirm
-- The single day-one "brilliant" capability to lead with
 - Product name
 - Brand and visual direction
