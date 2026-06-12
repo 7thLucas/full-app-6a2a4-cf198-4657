@@ -1,9 +1,15 @@
 # Product Overview
 
-> Status: Early scoping. Idea and audience confirmed; name and branding are still being defined during onboarding. Update as details are confirmed.
+> Status: MVP shipped. Name confirmed (**Thread**); initial app is built. Brand/visual direction still settling (logo pending). Update as it evolves.
 
 ## What it is
-A simple, single-user CRM (customer relationship manager) for tracking contacts, logging interactions, and viewing a sales pipeline in one place.
+**Thread** — a simple, single-user CRM for tracking contacts, logging interactions, and viewing a sales pipeline in one place. The name reflects the core idea: every contact is a relationship thread you keep alive, and the pipeline is those threads sorted by what needs you next.
+
+## What shipped (MVP)
+- **Pipeline board (home):** kanban columns per stage, drag-and-drop, an attention strip (open deals/value, follow-ups due, going-stale), and per-card stale/overdue flags.
+- **Contacts:** searchable list with seconds-fast quick-add.
+- **Contact detail:** info, their deals, and a chronological interaction timeline with one-tap logging that auto-bumps the deal out of the stale zone.
+- **Activity feed:** global, day-grouped thread of everything logged.
 
 ## Who it's for
 A solo user ("just me") managing their own contacts, interactions, and pipeline. No team, sharing, or permissions — built for one, which keeps it lightweight and fast and lets every screen be tuned to how the owner personally works.
